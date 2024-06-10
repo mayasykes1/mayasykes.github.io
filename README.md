@@ -5,35 +5,35 @@
 ## CIT281:
 
 ### Projects:
-Project 1: CLI, Folders, Ping Command, Creating JavaScript files
+<a href="https://mayasykes1.github.io/cit281-p1/">Project 1: CLI, Folders, Ping Command, Creating JavaScript files</a>
 <br>
-Project 2: Git, Repositories, and Refactoring
+<a href="https://mayasykes1.github.io/cit281-p2/">Project 2: Git, Repositories, and Refactoring</a>
 <br>
-Project 3: Coinage Code Module
+<a href="https://mayasykes1.github.io/cit281-p3/">Project 3: Coinage Code Module</a>
 <br>
-Project 4: REST API, Questions/Answers Function, and GET
+<a href="https://mayasykes1.github.io/cit281-p4/">Project 4: REST API, Questions/Answers Function, and GET</a>
 <br>
-Project 5: Monster Game
+<a href="https://mayasykes1.github.io/cit281-p5/">Project 5: Monster Game</a>
 <br>
-Project 6: Shape, Rectangle, and Triangle Class
+<a href="https://mayasykes1.github.io/cit281-p6/">Project 6: Shape, Rectangle, and Triangle Class</a>
 <br>
-Project 7: Github CIT Minor Porfolio
+<a href="https://mayasykes1.github.io/cit281-p7/">Project 7: Github CIT Minor Porfolio</a>
 
 ### Labs:
-Lab 1: Setting Up
+<a href="https://mayasykes1.github.io/cit281-lab1/">Lab 1: Setting Up</a>
 <br>
-Lab 2: Git and Repos
+<a href="https://mayasykes1.github.io/cit281-lab2/">Lab 2: Git and Repos</a>
 <br>
-Lab 3: Object Destructuring, Arrow Functions, and Loop Syntax
+<a href="https://mayasykes1.github.io/cit281-lab3/">Lab 3: Object Destructuring, Arrow Functions, and Loop Syntax</a>
 <br>
-Lab 4: Fastify and Node.js
+<a href="https://mayasykes1.github.io/cit281-lab4/">Lab 4: Fastify and Node.js</a>
 <br>
-Lab 5: Postman
+<a href="https://mayasykes1.github.io/cit281-lab5/">Lab 5: Postman</a>
 <br>
-Lab 6: Github and Book Class
+<a href="https://mayasykes1.github.io/cit281-lab6/">Lab 6: Github and Book Class</a>
 <br>
-Lab 7: Github Respositories
+<a href="https://mayasykes1.github.io/cit281-lab7/">Lab 7: Github Respositories</a>
 <br>
-Lab 8: Fastify and node-fetch
+<a href="https://mayasykes1.github.io/cit281-lab8/">Lab 8: Fastify and node-fetch</a>
 <br>
-Lab 9: Learning Lab course within Github
+<a href="https://mayasykes1.github.io/cit281-lab2/">Lab 9: Learning Lab course within Github</a>
