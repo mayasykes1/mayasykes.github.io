@@ -1,5 +1,7 @@
 # Welcome to my CIT minor portfolio!
 
+![code](https://github.com/mayasykes1/mayasykes.github.io/assets/52678410/52bf5f7c-f929-4bf3-b0ae-cc54d39e09ce)
+
 ## CIT281:
 
 ### Projects:
