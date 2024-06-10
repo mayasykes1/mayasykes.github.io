@@ -5,7 +5,7 @@
 ### Projects:
 Project 1: CLI, Folders, Ping Command, Creating JavaScript files
 <br>
-Project 2: Git, Repositories, and Refactoring  
+Project 2: Git, Repositories, and Refactoring
 <br>
 Project 3: Coinage Code Module
 <br>
